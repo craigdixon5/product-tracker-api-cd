@@ -52,12 +52,6 @@ npm run format
 npm run format:check
 ```
 
-## API Documentation
-
-For comprehensive API documentation following UK Government standards, see **[API-DOCS.md](./API-DOCS.md)**.
-
-### Quick Reference
-
 #### Health Check
 
 ```bash
