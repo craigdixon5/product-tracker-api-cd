@@ -1,0 +1,30 @@
+# Prettier ignore file for Simple Price Alert API
+
+# Dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Coverage reports
+coverage/
+
+# Build outputs
+dist/
+build/
+
+# Cache directories
+.cache/
+.parcel-cache/
+
+# Environment files
+.env*
+
+# Lock files (don't format these)
+package-lock.json
+yarn.lock
+
+# Generated files
+*.min.js
+*.min.css
